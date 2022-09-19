@@ -8,3 +8,7 @@
 7. Prints the first three letter, the last two letters and middle word of a string.
 8. Prints object-oriented programming with Python, followed by a new line.
 9. Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+10. Function in C that checks if a singly linked list has a cycle in it.
+100. Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+101. Script that compiles a Python script file.
+102. Python function def magic_calculation(a, b).
