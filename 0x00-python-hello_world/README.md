@@ -6,3 +6,5 @@
 5. Prints 3 times a string stored in the variable str, followed by its first 9 characters.
 6. Prints Welcome to Holberton School!
 7. Prints the first three letter, the last two letters and middle word of a string.
+8. Prints object-oriented programming with Python, followed by a new line.
+9. Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
