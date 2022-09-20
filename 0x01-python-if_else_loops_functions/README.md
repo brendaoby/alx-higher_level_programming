@@ -20,3 +20,4 @@ Python project done during **Full Stack Software Engineering** at **ALX** to pra
 | `100-print_tebahpla.py` | Prints the ASCII aplhabet in reverse, in uppercase and lowercase |
 | `101-remove_char_at.py` | Creates a copy of the string, removing the character at the position `n` |
 | `102-magic_calculation.py` | Function that does exactly the same as a given Python bytecode |
+| `lists.h` | Header File for 13-insert_number.c |
